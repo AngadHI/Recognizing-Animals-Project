@@ -1,0 +1,48 @@
+body {
+    font-family: 'Blaka Hollow', cursive;
+    background-color: skyblue;
+
+}
+
+.header_div {
+    background-color:  rgb(0, 255, 17);
+    color: black;
+}
+
+.header_div p {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color:black;
+    letter-spacing: 2;
+    font-size:12px;
+    font-weight:bold;
+}
+
+.header_div h2{
+    font-size: 60px;
+    color: blue;
+}
+
+.main_div button{
+font-family: Georgia, 'Times New Roman', Times, serif;
+margin-top: 30px;
+width:120px;
+font-weight:bolder;
+letter-spacing:4;
+color: blue;
+}
+
+.main_div h2{
+    font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
+
+.copy_right_footer {
+    position: fixed;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+    color: blue;
+    width: 100%;
+    line-height:3;
+    bottom: 0;
+    text-align: center;
+    background-color: rgb(0, 255, 17);
+    font-size:30px;
+}
